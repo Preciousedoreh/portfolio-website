@@ -62,7 +62,7 @@ const Hero = (): JSX.Element => {
         <div className="hero-text">
           <h1 className="hero-title">
             <span className="greeting">Hi, I'm</span>
-            <span className="name">Your Name</span>
+            <span className="name">Precious Edoreh</span>
           </h1>
           
           <div className="typewriter-container">
