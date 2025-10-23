@@ -919,6 +919,11 @@
     gap: 1rem;
   }
   
+  .hero {
+    padding: 8rem 2rem 2rem 2rem;
+    min-height: 100vh;
+  }
+  
   .hero-content {
     grid-template-columns: 1fr;
     gap: 2rem;
@@ -1021,5 +1026,48 @@
 
   .floating-shapes {
     display: none;
+  }
+}
+
+@media (max-width: 480px) {
+  .header {
+    padding: 0.5rem 0;
+  }
+
+  .nav {
+    padding: 0 1rem;
+  }
+
+  .logo {
+    font-size: 1.4rem;
+  }
+
+  .nav-links {
+    gap: 0.5rem;
+  }
+
+  .nav-links a {
+    padding: 0.6rem 1rem;
+    font-size: 0.9rem;
+  }
+
+  .hero {
+    padding: 10rem 1rem 2rem 1rem;
+  }
+
+  .name {
+    font-size: 2rem;
+  }
+
+  .typewriter-container {
+    font-size: 1.2rem;
+  }
+
+  .greeting {
+    font-size: 1rem;
+  }
+
+  .tagline {
+    font-size: 1rem;
   }
 }
