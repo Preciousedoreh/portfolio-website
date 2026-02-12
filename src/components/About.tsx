@@ -119,7 +119,7 @@ const About = (): JSX.Element => {
       </div>
       
       <div className="what-i-do">
-        <h3>What I Do</h3>
+        <h3>Area of Practice</h3>
         <div className="services-grid">
           <div className="service-item">
             <div className="service-icon">💻</div>
