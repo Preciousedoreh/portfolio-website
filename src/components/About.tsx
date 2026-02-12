@@ -21,11 +21,11 @@ const About = (): JSX.Element => {
           </p>
           <div className="about-stats">
             <div className="stat-item">
-              <span className="stat-number">50+</span>
+              <span className="stat-number">15+</span>
               <span className="stat-label">Projects Completed</span>
             </div>
             <div className="stat-item">
-              <span className="stat-number">3+</span>
+              <span className="stat-number">7+</span>
               <span className="stat-label">Years Experience</span>
             </div>
             <div className="stat-item">

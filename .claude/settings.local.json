@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:prolifi-markets.netlify.app)",
+      "WebFetch(domain:www.transave.com.ng)"
+    ]
+  }
+}
