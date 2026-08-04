@@ -45,6 +45,27 @@ const Projects = (): JSX.Element => {
       description: "Company site for Green Family Loan Ltd, the operator of the Family Mobile app listed in the FCCPC DMLs full approval status.",
       technologies: [],
       liveUrl: "https://green-family-loan-6nha.vercel.app/"
+    },
+    {
+      id: 6,
+      title: "Data Factory Global",
+      description: "Africa-focused data marketplace and compliance platform offering verified, analysis-ready datasets across healthcare, finance, and telecoms, plus data consulting and NDPA compliance advisory services.",
+      technologies: [],
+      liveUrl: "https://datafactoryglobal.com/"
+    },
+    {
+      id: 7,
+      title: "IPAWAS",
+      description: "Regional investment promotion platform representing a collaboration among 12 ECOWAS member nations, coordinating cross-border investment strategy, policy, and intelligence to attract capital to West Africa.",
+      technologies: [],
+      liveUrl: "https://ipawas.org/en/"
+    },
+    {
+      id: 8,
+      title: "ECOWAS Startup Awards",
+      description: "Application portal for the ECOWAS Startup Awards, a regional competition run under IPAWAS to identify and recognize promising startups across West Africa.",
+      technologies: [],
+      liveUrl: "https://ecowasstartupawards.ipawas.org/"
     }
   ]);
 
